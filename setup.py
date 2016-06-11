@@ -8,6 +8,6 @@ setup(name='Py PostMates',
       author='Michael Martinez',
       author_email='michaelmartinez@me.com',
       url='https://github.com/iMerica/py-postmates',
-      packages=['postmates'],
+      packages=['.'],
      )
 
